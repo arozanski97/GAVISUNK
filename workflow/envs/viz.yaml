@@ -4,6 +4,7 @@ channels:
   - anaconda
   - conda-forge
   - defaults
+channel_priority: flexible
 dependencies:
   - kmer-jellyfish=2.3.0
   - rustybam=0.1.29
